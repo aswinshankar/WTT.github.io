@@ -484,3 +484,34 @@ body {
     justify-items: center;
     padding: 20px;
 }
+
+.footer{
+    background-color: #002976;
+    text-align: center;
+    color: #fff;
+    padding:2% 1%;
+    
+}
+.contact .row{
+    margin-right: 0%;
+}
+.footer h3{
+    padding-top: 2%;
+}
+.footer .col{
+    padding-top: 1.5%;
+    color: #626370;
+}
+.footer a{
+padding-right: 1%;
+padding-left: 1%;
+padding-top: 4%;}
+.footer .soc{
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    ;}
+.upt{
+    background-color: #0e4be79b;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
