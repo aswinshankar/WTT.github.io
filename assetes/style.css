@@ -79,6 +79,7 @@ body {
     background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80);
     background-position: center top;
 	background-size:cover;
+    padding-bottom: 7.5%;
 }
 
 .navTrigger {
@@ -514,4 +515,13 @@ padding-top: 4%;}
     background-color: #0e4be79b;
     padding-top: 3%;
     padding-bottom: 1%;
+}
+
+.ablist{
+    padding:2% 30% 0% 30%;
+    font-size: large;
+    text-align: left;
+}
+#about{
+    padding-bottom: 7.5%;
 }
